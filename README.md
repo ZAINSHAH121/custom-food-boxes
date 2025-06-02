@@ -6,7 +6,7 @@ A modern and fully responsive custom packaging website built with **React**, **V
 
 ## 🚀 Live Demo
 
-🔗 [Visit Website](https://your-deployment-link.com)  
+🔗 [Visit Website](https://custom-packaging-2025.web.app)  
 📂 [Frontend Repository](https://github.com/ZAINSHAH121/custom-food-boxes)
 
 ---
