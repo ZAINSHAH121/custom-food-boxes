@@ -1,12 +1,44 @@
-# React + Vite
+# 🍱 Custom Food Boxes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and fully responsive custom packaging website built with **React**, **Vite**, **Tailwind CSS**, and **Node.js + Express (Backend)**. This project allows users to explore food packaging products, request custom quotes, and manage products through an admin dashboard.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+🔗 [Visit Website](https://your-deployment-link.com)  
+📂 [Frontend Repository](https://github.com/ZAINSHAH121/custom-food-boxes)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- 🧠 Dynamic Product Listing
+- 📤 Product Upload with Admin Panel
+- 💬 Contact & Quote Request Form (EmailJS)
+- 🛒 Add to Cart & Checkout Page
+- 📱 Fully Responsive Design
+- 🎞️ Animated Sections & Transitions
+- 🔐 Protected Admin Routes
+- ☁️ Backend Integration (Node.js + MongoDB)
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend:
+- ⚛️ React (Vite)
+- 🎨 Tailwind CSS
+- 📩 EmailJS (Quote/Contact)
+- 🔐 React Router DOM
+- ⚙️ Hero animations & Video backgrounds
+
+### Backend:
+- 🟩 Node.js + Express
+- 🍃 MongoDB (via Mongoose)
+- 🔒 REST APIs
+
+---
+
+## 📁 Project Structure
+
